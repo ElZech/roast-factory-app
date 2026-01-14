@@ -1,8 +1,3 @@
-# roast-factory-app
-Real-time multiplayer roast battle app with AI judging, viral clip generation, and skill-based SOL rewards.
-RoastPush is a real-time multiplayer roast battle app where users compete in voice-first battles for ROAST token rewards. This is the frontend application built with Next.js 14.
-
-**Token**: ROAST (`GRv23yBYo1fMqDY8Ws2LqjwHoLx4TGUqYi7KfCDkBAGS`)
 ---
 
 ## Quick Start (Frontend Only)
