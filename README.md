@@ -318,6 +318,9 @@ Every roast is scored by GPT-4o-mini on four criteria:
 
 \*\*\[View Frontend](https://github.com/ElZech/roastfactory-frontend)\*\*
 
+\*\*\[BagsApp Link](https://bags.fm/GRv23yBYo1fMqDY8Ws2LqjwHoLx4TGUqYi7KfCDkBAGS)\*\*
+
+\*\*\[CA](GRv23yBYo1fMqDY8Ws2LqjwHoLx4TGUqYi7KfCDkBAGS)\*\*
 
 
 <br />
