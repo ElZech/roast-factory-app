@@ -232,6 +232,14 @@ Every roast is scored by GPT-4o-mini on four criteria:
 
 \## 🚀 Roadmap
 
+**[📍 View Full Roadmap →](ROADMAP.md)**
+
+| Phase | Focus | Timeline | Status |
+|:-----:|-------|:--------:|:------:|
+| 1 | 🎮 Beta Season | Jan '26 | 🟡 In Progress |
+| 2 | 💰 Token Integration | Jan '26 | ⬜ Upcoming |
+| 3 | 🎬 Viral & Social | Q2 '26 | ⬜ Future |
+| 4 | 🌍 Scale & Expand | Q2 '26 | ⬜ Future |
 
 
 \- \[x] Real-time multiplayer battles
