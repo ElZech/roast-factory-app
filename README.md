@@ -308,7 +308,7 @@ Every roast is scored by GPT-4o-mini on four criteria:
 
 
 
-\*\*\[Play Now](https://https://factoryapp.dev/app/builds/9881de3d-0b1b-46f0-be35-9c6a1e6cd7b3)\*\* • OR •\*\*(https://roastfactory.vercel.app)\*\* •
+\*\*\[Play Now]( https://https://factoryapp.dev/app/builds/9881de3d-0b1b-46f0-be35-9c6a1e6cd7b3 ) \*\* • OR •\*\*(https://roastfactory.vercel.app)\*\* •
 
 
 
